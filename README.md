@@ -4,9 +4,8 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="" target="_blank">
-    
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="20" role="img" aria-label="@: angelikawebdev"><title>@: angelikawebdev</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="120" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="21" height="20" fill="#555"/><rect x="21" width="99" height="20" fill="blueviolet"/><rect width="120" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="115" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="110">@</text><text x="115" y="140" transform="scale(.1)" fill="#fff" textLength="110">@</text><text aria-hidden="true" x="695" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="890">angelikawebdev</text><text x="695" y="140" transform="scale(.1)" fill="#fff" textLength="890">angelikawebdev</text></g></svg>
+  <a href="https://instagram.com/angelikawebdev?igshid=ZDdkNTZiNTM=" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Badget Instagram"/>
   </a>
 </div>
 
