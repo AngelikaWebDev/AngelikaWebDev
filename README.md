@@ -1,4 +1,13 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1 align="center">Hola 👋, Soy Angelika Chozas</h1>
+  <h3>Apasionada por el desarrollo Front-End. Soy de España. Me gusta estar en continuo aprendizaje asistiendo en mi tiempo libre a cursos sobre lenguajes de programacion o de manera autodidacta</h3>
+</div>
+
+<div id="badges" align="center">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" alt="Instagram" />
+  </a>
+</div>
 
 <!--
 **AngelikaWebDev/AngelikaWebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
