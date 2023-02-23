@@ -46,13 +46,13 @@
            width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular"
            width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySql" alt="MySql"
+      <img src="https://github.com/AngelikaWebDev/icons/blob/main/skills/sql-blue.svg" title="MySql" alt="MySql"
            width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="Figma" alt="Figma"
+      <img src="https://github.com/AngelikaWebDev/icons/blob/main/skills/figma.svg" title="Figma" alt="Figma"
            width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java"
            width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain.svg" title="Spring" alt="Spring"
+      <img src="https://github.com/AngelikaWebDev/icons/blob/main/skills/spring.svg" title="Spring" alt="Spring"
            width="40" height="40"/>&nbsp;
     </div>
 </div>
