@@ -29,7 +29,7 @@
   <div>
     <img src="https://github.com/AngelikaWebDev/AngelikaWebDev/blob/main/img/LoginRegisterPage.PNG" title="LoginRegisterPage" alt="LoginRegisterPage" width="auto" height="200"/>
     <a href="https://github.com/AngelikaWebDev/LoginRegisterPage">LoginRegisterPage</a>
-    <pIt's a project aimed at developing a simple login and registration web page. Utilizing Flask, HTML, CSS, and possibly JavaScript, this project enables users to register new accounts, log in securely, and access protected content. It's an ideal starting point for learning web development fundamentals and authentication techniques.</p>
+    <p>It's a project aimed at developing a simple login and registration web page. Utilizing Flask, HTML, CSS, and possibly JavaScript, this project enables users to register new accounts, log in securely, and access protected content. It's an ideal starting point for learning web development fundamentals and authentication techniques.</p>
   </div>
 </div>
 
