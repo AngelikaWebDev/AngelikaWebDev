@@ -33,7 +33,7 @@
 <hr>
 <div id="languages" align="left">
   <h3>⛏️ Habilidades Técnicas:</h3>
-    <div>
+<div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5"
            width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3"
@@ -46,13 +46,15 @@
            width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular"
            width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React"
+           width="40" height="40"/>&nbsp;
       <img src="https://github.com/AngelikaWebDev/icons/blob/main/skills/sql-blue.svg" title="MySql" alt="MySql"
            width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb"
+           width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python"
+           width="40" height="40"/>&nbsp;
       <img src="https://github.com/AngelikaWebDev/icons/blob/main/skills/figma.svg" title="Figma" alt="Figma"
-           width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java"
-           width="40" height="40"/>&nbsp;
-      <img src="https://github.com/AngelikaWebDev/icons/blob/main/skills/spring.svg" title="Spring" alt="Spring"
            width="40" height="40"/>&nbsp;
     </div>
 </div>
