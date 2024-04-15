@@ -27,7 +27,7 @@
 <div id="proyectos">
   <h3>⚡ Proyectos Destacados:</h3>
   <div>
-    <img src="https://github.com/AngelikaWebDev/AngelikaWebDev/blob/main/img/LoginRegisterPage.PNG" title="LoginRegisterPage" alt="LoginRegisterPage" width="auto" height="200"/>
+    <img src="https://github.com/AngelikaWebDev/AngelikaWebDev/blob/main/img/LoginRegisterPage.PNG" title="LoginRegisterPage" alt="LoginRegisterPage" width="auto" height="200"style="border: 1px solid black"/>
     <br>
     <a href="https://github.com/AngelikaWebDev/LoginRegisterPage">
       LoginRegisterPage</a>
