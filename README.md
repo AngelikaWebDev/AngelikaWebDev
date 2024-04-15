@@ -26,6 +26,15 @@
 <hr>
 <div id = "proyectos">
   <h3>⚡Highlighted Projects:</h3>
+  <div>
+    <a href="[https://www.linkedin.com/in/angelikachozas](https://github.com/AngelikaWebDev/LoginRegisterPage)">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5"
+    width="40" height="40"/>&nbsp;
+    </a>
+    <h5>LoginRegisterPage</h5>
+    <span>It's a project aimed at developing a simple login and registration web page. Utilizing Flask, HTML, CSS, and possibly JavaScript, this project enables users to register new accounts, log in securely, and access protected content. It's an ideal starting point for learning web development fundamentals and authentication techniques.</span>
+  </div>
+  
   [Proyecto 1](enlace al proyecto) - Descripción breve del proyecto
   [Proyecto 2](enlace al proyecto) - Descripción breve del proyecto
   [Proyecto 3](enlace al proyecto) - Descripción breve del proyecto
