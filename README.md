@@ -26,13 +26,13 @@
 <hr>
 <div id="proyectos">
   <h3>⚡ Proyectos Destacados:</h3>
-  <div style="border: solid 1px black; padding: 1em;">
-    
-      <img src="https://github.com/AngelikaWebDev/AngelikaWebDev/blob/main/img/LoginRegisterPage.PNG" title="LoginRegisterPage" alt="LoginRegisterPage" width="auto" height="200"/>
-      <a href="https://github.com/AngelikaWebDev/LoginRegisterPage">LoginRegisterPage</a>
-      It's a project aimed at developing a simple login and registration web page. Utilizing Flask, HTML, CSS, and possibly JavaScript, this project enables users to register new accounts, log in securely, and access protected content. It's an ideal starting point for learning web development fundamentals and authentication techniques.
+  <div>
+    <img src="https://github.com/AngelikaWebDev/AngelikaWebDev/blob/main/img/LoginRegisterPage.PNG" title="LoginRegisterPage" alt="LoginRegisterPage" width="auto" height="200"/>
+    <a href="https://github.com/AngelikaWebDev/LoginRegisterPage">LoginRegisterPage</a>
+    <pIt's a project aimed at developing a simple login and registration web page. Utilizing Flask, HTML, CSS, and possibly JavaScript, this project enables users to register new accounts, log in securely, and access protected content. It's an ideal starting point for learning web development fundamentals and authentication techniques.</p>
   </div>
 </div>
+
 <hr>
 <div id="languages" align="left">
   <h3>⛏️ Technical Skills:</h3>
