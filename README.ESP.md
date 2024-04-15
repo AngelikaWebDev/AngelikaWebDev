@@ -26,9 +26,13 @@
 <hr>
 <div id = "proyectos">
   <h3>⚡Proyectos Destacados:</h3>
-  [Proyecto 1](enlace al proyecto) - Descripción breve del proyecto
-  [Proyecto 2](enlace al proyecto) - Descripción breve del proyecto
-  [Proyecto 3](enlace al proyecto) - Descripción breve del proyecto
+  <div>
+    <img src="https://github.com/AngelikaWebDev/AngelikaWebDev/blob/main/img/LoginRegisterPage.PNG" title="LoginRegisterPage" alt="LoginRegisterPage" width="auto" height="200"style="border: 1px solid black"/>
+    <br>
+    <a href="https://github.com/AngelikaWebDev/LoginRegisterPage">
+      LoginRegisterPage</a>
+    <p>Es un proyecto destinado a desarrollar una página web de inicio de sesión y registro simple. Utilizando HTML, CSS y JavaScript, este proyecto permite a los usuarios registrarse para obtener nuevas cuentas, iniciar sesión de manera segura y acceder a contenido protegido. Es un punto de partida ideal para aprender fundamentos del desarrollo web y técnicas de autenticación.</p>
+  </div>
 </div>
 <hr>
 <div id="languages" align="left">
