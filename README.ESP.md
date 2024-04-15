@@ -16,7 +16,7 @@
        <p>Implementación de animaciones y efectos visuales para dinamizar y mejorar la experiencia de usuario</p>
     </li>
      <li>
-      <p>Desarrollo de aplicaciones web utilizando frameworks como Angular</p>
+      <p>Desarrollo de aplicaciones web utilizando frameworks como Angular y React</p>
     </li>
     <li>
       <p>Trabajo en equipo y colaboración en proyectos utilizando Git y GitHub</p>
