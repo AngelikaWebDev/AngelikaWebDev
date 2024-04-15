@@ -24,18 +24,15 @@
   </ul>
 </div>
 <hr>
-<div id = "proyectos">
-  <h3>⚡Highlighted Projects:</h3>
-  <div style="border: solid 1px black; padding:1em;">
-    <a href="[https://www.linkedin.com/in/angelikachozas](https://github.com/AngelikaWebDev/LoginRegisterPage)">
-    <img src="https://github.com/AngelikaWebDev/AngelikaWebDev/blob/main/img/LoginRegisterPage.PNG" title="LoginRegisterPage" alt="LoginRegisterPage"
-    width="auto" height="200"/>&nbsp;
-    
-    <h5>LoginRegisterPage</h5>
-    <span>It's a project aimed at developing a simple login and registration web page. Utilizing Flask, HTML, CSS, and possibly JavaScript, this project enables users to register new accounts, log in securely, and access protected content. It's an ideal starting point for learning web development fundamentals and authentication techniques.</span>
+<div id="proyectos">
+  <h3>⚡ Proyectos Destacados:</h3>
+  <div style="border: solid 1px black; padding: 1em;">
+    <a href="https://github.com/AngelikaWebDev/LoginRegisterPage">
+      <img src="https://github.com/AngelikaWebDev/AngelikaWebDev/blob/main/img/LoginRegisterPage.PNG" title="LoginRegisterPage" alt="LoginRegisterPage" width="auto" height="200"/>
+      <h5>LoginRegisterPage</h5>
+      <span>Este proyecto tiene como objetivo desarrollar una página web de inicio de sesión y registro simple. Utilizando Flask, HTML, CSS y posiblemente JavaScript, este proyecto permite a los usuarios registrarse para obtener nuevas cuentas, iniciar sesión de manera segura y acceder a contenido protegido. Es un punto de partida ideal para aprender fundamentos del desarrollo web y técnicas de autenticación.</span>
     </a>
   </div>
-  
 </div>
 <hr>
 <div id="languages" align="left">
