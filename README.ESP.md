@@ -21,6 +21,9 @@
     <li>
       <p>Trabajo en equipo y colaboración en proyectos utilizando Git y GitHub</p>
     </li>
+    <li>
+      <p>Pruebas unitarias utilizando Jest</p>
+    </li>
   </ul>
 </div>
 <hr>
