@@ -34,7 +34,7 @@
     <p>It's a project aimed at developing a simple login and registration web page. Utilizing HTML, CSS and JavaScript, this project enables users to register new accounts, log in securely, and access protected content. It's an ideal starting point for learning web development fundamentals and authentication techniques.</p>
   </div>
   <div>
-    <img src="https://github.com/AngelikaWebDev/AngelikaWebDev/blob/main/img/LoginRegisterPage.PNG" title="LoginRegisterPage" alt="LoginRegisterPage" width="auto" height="200"style="border: 1px solid black"/>
+    <img src="https://github.com/AngelikaWebDev/todo-list/blob/main/img/portada%20todolist.PNG" title="TODOlist" alt="TODOlist" width="auto" height="200"style="border: 1px solid black"/>
     <br>
     <a href="https://github.com/AngelikaWebDev/todo-list">
       LoginRegisterPage</a>
