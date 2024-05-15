@@ -21,11 +21,14 @@
     <li>
       <p>Teamwork and collaboration on projects using Git and GitHub</p>
     </li>
+    <li>
+      <p>Unite test using Jest</p>
+    </li>
   </ul>
 </div>
 <hr>
 <div id="proyectos">
-  <h3>⚡ Proyectos Destacados:</h3>
+  <h3>⚡ Featured Projects:</h3>
   <div>
     <img src="https://github.com/AngelikaWebDev/AngelikaWebDev/blob/main/img/LoginRegisterPage.PNG" title="LoginRegisterPage" alt="LoginRegisterPage" width="auto" height="200"style="border: 1px solid black"/>
     <br>
