@@ -22,7 +22,7 @@
       <p>Teamwork and collaboration on projects using Git and GitHub</p>
     </li>
     <li>
-      <p>Unite test using Jest</p>
+      <p>Unite tests using Jest</p>
     </li>
   </ul>
 </div>
