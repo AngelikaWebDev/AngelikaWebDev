@@ -31,14 +31,15 @@
     <br>
     <a href="https://github.com/AngelikaWebDev/LoginRegisterPage">
       LoginRegisterPage</a>
-    <p>Es un proyecto destinado a desarrollar una página web de inicio de sesión y registro simple. Utilizando HTML, CSS y JavaScript.</p>
+    <p>It's a project aimed at developing a simple login and registration web page. Utilizing HTML, CSS and JavaScript.
+</p>
   </div>
   <div>
     <img src="https://github.com/AngelikaWebDev/todo-list/blob/main/img/portada%20todolist.PNG" title="TODOlist" alt="TODOlist" width="auto" height="200"style="border: 1px solid black"/>
     <br>
     <a href="https://github.com/AngelikaWebDev/todo-list">
       TODO List</a>
-    <p>TODO List es una aplicación web para gestionar listas de tareas pendientes. Permite a los usuarios agregar nuevas tareas, marcarlas como completadas con un simple clic en una casilla de verificación, y eliminarlas cuando ya no son necesarias. La interfaz de usuario es simple y fácil de usar, con un diseño intuitivo que facilita la organización y administración de las tareas diarias. Los elementos de la lista se pueden ordenar alfabéticamente para una mejor visualización, y hay una opción para eliminar tareas. Además, la aplicación está diseñada para ser receptiva, lo que significa que se adapta y funciona bien en una variedad de dispositivos, incluidos teléfonos móviles, tabletas y ordenadores.</p>
+    <p>The project is a web application for managing to-do lists. It allows users to add new tasks, mark them as completed with a simple click on a checkbox, and remove them when they are no longer needed. The user interface is simple and easy to use, with an intuitive design that facilitates the organization and management of daily tasks. List items can be sorted alphabetically for better viewing, and there is an option to delete tasks individually or all at once. Additionally, the application is designed to be responsive, meaning it adapts and works well on a variety of devices including mobile phones, tablets, and desktop computers.</p>
   </div>
 </div>
 
