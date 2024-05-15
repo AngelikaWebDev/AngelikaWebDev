@@ -38,7 +38,7 @@
     <br>
     <a href="https://github.com/AngelikaWebDev/todo-list">
       LoginRegisterPage</a>
-    <p>It's a project aimed at developing a simple login and registration web page. Utilizing HTML, CSS and JavaScript, this project enables users to register new accounts, log in securely, and access protected content. It's an ideal starting point for learning web development fundamentals and authentication techniques.</p>
+    <p>TODO List es una aplicación web para gestionar listas de tareas pendientes. Permite a los usuarios agregar nuevas tareas, marcarlas como completadas con un simple clic en una casilla de verificación, y eliminarlas cuando ya no son necesarias. La interfaz de usuario es simple y fácil de usar, con un diseño intuitivo que facilita la organización y administración de las tareas diarias. Los elementos de la lista se pueden ordenar alfabéticamente para una mejor visualización, y hay una opción para eliminar tareas. Además, la aplicación está diseñada para ser receptiva, lo que significa que se adapta y funciona bien en una variedad de dispositivos, incluidos teléfonos móviles, tabletas y ordenadores.</p>
   </div>
 </div>
 
