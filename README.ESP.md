@@ -44,6 +44,14 @@
       TODO List</a>
     <p>TODO List es una aplicación web para gestionar listas de tareas pendientes. Permite a los usuarios agregar nuevas tareas, marcarlas como completadas con un simple clic en una casilla de verificación, y eliminarlas cuando ya no son necesarias. La interfaz de usuario es simple y fácil de usar, con un diseño intuitivo que facilita la organización y administración de las tareas diarias. Los elementos de la lista se pueden ordenar alfabéticamente para una mejor visualización, y hay una opción para eliminar tareas. Además, la aplicación está diseñada para ser receptiva, lo que significa que se adapta y funciona bien en una variedad de dispositivos, incluidos teléfonos móviles, tabletas y ordenadores.</p>
   </div>
+  <div>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX6MK34zw_YfhT1F26_4dFyF5Rc8v8_ZexPg&s" title="blog starwars" alt="blog starwars" width="auto" height="200"style="border: 1px solid black"/>
+    <br>
+    <a href="https://github.com/AngelikaWebDev/blog-starwars">
+      Proyecto Blog de Star Wars</a>
+    <p>El Blog de Star Wars es una aplicación web desarrollada con React y Flask, que utiliza datos de la SWAPI (Star Wars API). El frontend en React ofrece una experiencia de usuario interactiva y elegante, mientras que el backend en Flask maneja las solicitudes a la API y la gestión de datos. Los usuarios pueden explorar detalles sobre personajes, naves estelares y planetas del universo de Star Wars, todo presentado en una interfaz responsiva y amigable.
+</p>
+</div>
 </div>
 <hr>
 <div id="languages" align="left">
