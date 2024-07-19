@@ -44,6 +44,14 @@
       TODO List</a>
     <p>The project is a web application for managing to-do lists. It allows users to add new tasks, mark them as completed with a simple click on a checkbox, and remove them when they are no longer needed. The user interface is simple and easy to use, with an intuitive design that facilitates the organization and management of daily tasks. List items can be sorted alphabetically for better viewing, and there is an option to delete tasks individually or all at once. Additionally, the application is designed to be responsive, meaning it adapts and works well on a variety of devices including mobile phones, tablets, and desktop computers.</p>
   </div>
+  <div>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX6MK34zw_YfhT1F26_4dFyF5Rc8v8_ZexPg&s" title="blog starwars" alt="blog starwars" width="auto" height="200"style="border: 1px solid black"/>
+    <br>
+    <a href="https://github.com/AngelikaWebDev/blog-starwars">
+      Star Wars Blog Project</a>
+    <p>The Star Wars Blog is a web application built with React and Flask, featuring data from the SWAPI (Star Wars API). The React frontend offers a sleek, interactive user experience, while the Flask backend handles API requests and data management. Users can explore details about characters, starships, and planets from the Star Wars universe, all presented in a responsive, user-friendly interface.
+</p>
+    </div>
 </div>
 
 <hr>
