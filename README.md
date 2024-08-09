@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1 align="center">Hello 👋, I'm Angelika Chozas</h1>
-  <h3>Front-End Developer. I'm passionate about crafting web interfaces with great design, interactivity, and accessibility, enabling people to intuitively engage with information in an attractive manner.</h3>
+  <h3>Full Stack Developer. I'm passionate about crafting web interfaces with great design, interactivity, and accessibility, enabling people to intuitively engage with information in an attractive manner.</h3>
 </div>
 <hr>
 <div id="experiencia">
