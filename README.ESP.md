@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1 align="center">Hola 👋, Soy Angelika Chozas</h1>
-  <h3>Desarrolladora Front-End. Me apasiona crear interfaces web con un gran diseño, interactivas y accesibles que permitan a las personas interactuar con la información de manera intuitiva y atractiva.</h3>
+  <h3>Desarrolladora Full Stack. Me apasiona crear interfaces web con un gran diseño, interactivas y accesibles que permitan a las personas interactuar con la información de manera intuitiva y atractiva.</h3>
 </div>
 <hr>
 <div id="experiencia">
