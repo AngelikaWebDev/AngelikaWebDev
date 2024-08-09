@@ -66,11 +66,6 @@
   </div>
 </div>
 <hr>
-<h3>📈 Statistics:</h3>
-<div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AngelikaWebDev&theme=radical&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
-</div>
-<hr>
 <div id="contact" align="center">
   <h3>📧 Contact:</h3>
   <p>If you're interested in collaborating on a project or discussing front-end development, feel free to reach out!</p>
