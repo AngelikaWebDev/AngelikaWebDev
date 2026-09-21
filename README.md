@@ -76,6 +76,7 @@
   <a href="https://instagram.com/angelikawebdev?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </div>
 <hr>
+<img src="https://vercel.app">
 <div align="center">
   Thanks for visiting my profile!
 </div>
