@@ -66,7 +66,6 @@
   </div>
 </div>
 <hr>
-![Mis Estadísticas de GitHub](https://vercel.app)
 <div id="contact" align="center">
   <h3>📧 Contact:</h3>
   <p>If you're interested in collaborating on a project or discussing front-end development, feel free to reach out!</p>
